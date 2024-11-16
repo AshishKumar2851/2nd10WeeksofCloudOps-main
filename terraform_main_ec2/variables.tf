@@ -61,7 +61,7 @@ variable "instance_type" {
 variable "key_name" {
   description = "EC2 keypair"
   type        = string
-  default     = "vsv"
+  default     = "Ashish_DevOps_Virginia_pem"
 }
 
 variable "instance_name" {
